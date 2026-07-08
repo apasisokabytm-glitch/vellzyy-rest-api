@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Brat Naruto",
+    "category": "maker",
+    "route": "/brat",
+    "method": "GET",
+    "baseUrl": "https://api-nanzz.my.id/docs/api/maker/brat/brat-naruto.php",
+    "responseType": "image",
+    "description": "Generate Brat Naruto image with custom text",
+    "status": "public"
+  }
+]
